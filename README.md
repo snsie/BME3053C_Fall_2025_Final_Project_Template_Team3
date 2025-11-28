@@ -1,10 +1,10 @@
-# Project Title
+# BioWordle
 
-[One-sentence summary of your project]
+BioWordle is a browser-based word game where players guess 5-letter Biomedical terms, making it easy and fun for students to review Biomedical concepts. 
 
 ## Biomedical Context
 
-[Who/what this app or game is for]
+The game is designed for biomedical engineering students, pre-med and STEM majors, and anyone who wants a quick, low pressure way to practice key vocabulary terms while playing the wordle. 
 
 ## Quick Start Instructions
 
